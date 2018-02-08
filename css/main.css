@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#container
+{
+	margin: 0 auto;
+	width: 960px;
+}
+
+h1
+{
+  font-family: sans-serif, times, arial;
+  font-size: 150%;
+  color: blue;
+  background-color: white;
+}
+
+p
+{
+  font-family: sans-serif, times, arial;
+  font-size: 100%;
+  color: blue;
+  background-color: white;
+}
+
+body
+{
+  	background-image: url(../images/pow-star.png);
+}
